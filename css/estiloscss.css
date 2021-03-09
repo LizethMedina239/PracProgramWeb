@@ -1,0 +1,75 @@
+header{
+    width: 100%;
+    height: 120px;
+    background: #F5B7B1;
+    text-align:center;
+    position: fixed;
+    top: 0;
+    overflow: hidden;
+}
+
+header h1{
+  font-size: 40px;
+  color: #102C46;
+  font-family: 'Times New Roman';
+}
+
+body {
+    background-color:#C1AEC8;
+    font-family: Century;
+    font-size: 2rem;
+    color: black;
+    padding-top: 100px;
+}
+
+h1 {
+    font-size: 2rem;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 800;
+    
+}
+
+.contenedor {
+  width: 98%;
+  margin: auto;
+}
+
+.menu {
+  text-align: center;
+  position: absolute;
+  left: 0;
+  top: 520px;
+  width: 100%;
+  background: #95C0F8;
+}
+
+.menu a{
+  display: block;
+  color: #1E7A62;
+  height: 30px;
+  text-decoration: none;
+  padding: 20px;
+  border-bottom: 1px solid rgba(255,255,255,0.3);
+}
+
+.menu a:hover {
+  background: #333;
+}
+
+h2 {
+  font-size: 75px;
+  font-family: Brush Script MT;
+  color: #501212;
+}
+
+table{
+  text-align: center;
+}
+
+.img{
+  width: 24%;
+  border-radius: 6%;
+  border: 5px solid #501212
+}
